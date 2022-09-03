@@ -31,3 +31,9 @@ In style.css file i write all the code for the styling .
 > Image of my website.
 
 ![image](https://user-images.githubusercontent.com/109961309/183289246-dd87c1e0-9538-4519-bd50-97ff2dc09588.png)
+
+> In small screen it will look like as:
+
+ ![image](https://user-images.githubusercontent.com/109961309/188262958-be6753a3-e8aa-4be3-aa0e-29568df01bf8.png)
+
+
